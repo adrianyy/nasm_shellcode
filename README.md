@@ -1,0 +1,1 @@
+NASM listing to C++ shellcode converter. Requires C++11 compiler with regex support.
